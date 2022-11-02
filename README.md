@@ -18,7 +18,7 @@
 			<a href="#" class="btn">FOLLOW</a> 
 		</nav>
 		<div class="image">
-			<img src="a2.JPEG">
+			<img src="">
 			
 		</div>
 		<div class="content">
