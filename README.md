@@ -1,4 +1,3 @@
-# syahrul-ardiansyah
 <!DOCTYPE html>
 <html>
 <head>
