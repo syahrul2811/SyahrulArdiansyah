@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>SYAHRUL ARDIANSYAH</title>
@@ -17,8 +17,7 @@
 			</ul>
 			<a href="#" class="btn">FOLLOW</a> 
 		</nav>
-		<div class="image">
-			<img src="">
+		
 			
 		</div>
 		<div class="content">
